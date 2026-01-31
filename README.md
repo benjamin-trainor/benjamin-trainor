@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Benjamin
 
-### Backend & Systems Engineer | Rust | Go | TypeScript | Distributed Systems | Correctness-focused
+### Backend & Systems Engineer | Rust | Go | Haskell | TypeScript | Distributed Systems | Correctness-focused
 
 ---
 
