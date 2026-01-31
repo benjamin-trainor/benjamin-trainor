@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Benjamin Trainor
+# 👋 Hi, I’m Benjamin
 
 ### Backend & Systems Engineer | Rust | Go | TypeScript | Distributed Systems | Correctness-focused
 
