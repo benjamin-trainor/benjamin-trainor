@@ -42,7 +42,7 @@ A fault-tolerant distributed key-value store in Rust/Go with deterministic repli
 ---
 
 ## Links
-- [LinkedIn](https://linkedin.com/in/benjamin-trainor)
+- [LinkedIn](https://linkedin.com/in/benjamintrainor)
 <!--
 - [Resume PDF](https://github.com/username/resume.pdf)
 -->
