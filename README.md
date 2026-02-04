@@ -7,29 +7,24 @@
 ## About Me
 I’m a software engineer focused on backend and systems-level engineering. I build long-lived services, event-driven systems, and runtime components from first principles. My passion lies in correctness, concurrency, and understanding how systems work under real-world conditions.
 
+🌱 I’m currently learning: Golang as well as the internals of implementing an interpreter for a programming language
+🔭 I’m currently working on: jlox interpreter, and planning out a distributed key-value store
+
 ---
 
 ## Featured Projects
 
 ### 🧩 Lox Interpreter
-Multi-language implementations of the Lox interpreter in Java, C, and Haskell.
+Multi-language implementations of the Lox interpreter in Java and C.
 - Skills: parsing, AST, runtime design, garbage collection, cross-language invariants
 - [jlox: Repo Link](https://github.com/benjamin-trainor/jlox)
-- Lox-C: Repo Link
-- Lox-Haskell: Repo Link
+- clox: Repo Link
 <!--
 - [Repo Link](https://github.com/username/lox)
 -->
 
-### ⚡ Lox Runtime in Rust
-Reimplementation of the Lox VM/runtime in Rust with deterministic host memory and explicit garbage collection.
-- Skills: Rust ownership model, heap management, safety invariants, correctness
-<!--
-- [Repo Link](https://github.com/username/lox-rust)
--->
-
 ### 🌐 Distributed Key-Value Store
-A fault-tolerant distributed key-value store in Rust/Go with deterministic replication and state machine correctness.
+A fault-tolerant distributed key-value store in Go with deterministic replication and state machine correctness.
 - Skills: distributed systems, consensus, invariants, concurrency
 <!--
 - [Repo Link](https://github.com/username/dist-kv)
@@ -38,7 +33,7 @@ A fault-tolerant distributed key-value store in Rust/Go with deterministic repli
 ---
 
 ## Skills
-**Languages:** Rust, Go, TypeScript, C, Java, Haskell  
+**Languages:** Go, TypeScript, C, Java  
 **Domains:** Backend engineering, distributed systems, compilers & interpreters, concurrent systems  
 **Other:** Networking (TCP/HTTP), event-driven architecture, formal methods, property-based testing
 
