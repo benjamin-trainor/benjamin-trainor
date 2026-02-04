@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Benjamin
 
-### Backend & Systems Engineer | Rust | Go | Haskell | TypeScript | Distributed Systems | Correctness-focused
+### Backend & Systems Engineer | Go | C | TypeScript | Java | Distributed Systems | Correctness-focused
 
 ---
 
 ## About Me
 I’m a software engineer focused on backend and systems-level engineering. I build long-lived services, event-driven systems, and runtime components from first principles. My passion lies in correctness, concurrency, and understanding how systems work under real-world conditions.
 
-🌱 I’m currently learning: Golang as well as the internals of implementing an interpreter for a programming language
-🔭 I’m currently working on: jlox interpreter, and planning out a distributed key-value store
+- 🌱 I’m currently learning: Golang as well as the internals of implementing an interpreter for a programming language
+- 🔭 I’m currently working on: jlox interpreter (JVM), and planning out a distributed key-value store project
 
 ---
 
