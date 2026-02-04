@@ -14,7 +14,7 @@ I’m a software engineer focused on backend and systems-level engineering. I bu
 ### 🧩 Lox Interpreter
 Multi-language implementations of the Lox interpreter in Java, C, and Haskell.
 - Skills: parsing, AST, runtime design, garbage collection, cross-language invariants
-- [Lox-Java: Repo Link](https://github.com/benjamin-trainor/lox-java)
+- [jlox: Repo Link](https://github.com/benjamin-trainor/jlox)
 - Lox-C: Repo Link
 - Lox-Haskell: Repo Link
 <!--
