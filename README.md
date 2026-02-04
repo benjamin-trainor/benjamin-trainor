@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Benjamin
 
-### Backend & Systems Engineer | Go | C | TypeScript | Java | Distributed Systems | Correctness-focused
+### 💻 Backend & Systems Engineer | Go | C | TypeScript | Java | Distributed Systems | Correctness-focused
 
 ---
 
