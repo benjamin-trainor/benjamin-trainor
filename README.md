@@ -25,7 +25,8 @@ Multi-language implementations of the Lox interpreter in Java and C.
 
 ### 🌐 Distributed Key-Value Store
 A fault-tolerant distributed key-value store in Go with deterministic replication and state machine correctness.
-- Skills: distributed systems, consensus, invariants, concurrency
+- 📝 Language: Go
+- 🛠️ Skills: distributed systems, consensus, invariants, concurrency
 <!--
 - [Repo Link](https://github.com/username/dist-kv)
 -->
