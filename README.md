@@ -23,10 +23,11 @@ Multi-language implementations of the Lox interpreter in Java and C.
 - [Repo Link](https://github.com/username/lox)
 -->
 
-### 🌐 Distributed Key-Value Store
-A fault-tolerant distributed key-value store in Go with deterministic replication and state machine correctness.
+### 🌐 Guido — Embedded Coordination Store (currently v0.x.x/private repo)
+A minimal, correctness-first coordination substrate for Go providing linearizable CAS, leases, and watches with Raft replication.
+- Use cases: leader election, distributed locks, service discovery, small metadata stores
 - 📝 Language: Go
-- 🛠️ Skills: distributed systems, consensus, invariants, concurrency
+- 🛠️ Skills: distributed systems, Raft, consensus, state machines, invariants, concurrency
 <!--
 - [Repo Link](https://github.com/username/dist-kv)
 -->
