@@ -25,7 +25,7 @@ Skills: parsing, AST, runtime design, garbage collection, cross-language invaria
 -->
 ----
 
-## In Development (Private/Unstable)
+## In Development (private repo)
 
 ### 🌐 Guido — Embedded Coordination Store - Started Feb/2026
 A minimal, correctness-first coordination substrate for Go providing linearizable CAS, leases, and watches with Raft replication.
