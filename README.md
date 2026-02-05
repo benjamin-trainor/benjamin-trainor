@@ -14,7 +14,7 @@ I’m a software engineer focused on backend and systems-level engineering. I bu
 
 ## Featured Projects
 
-### 🧩 Lox Interpreter
+### 🧩 Bob Nystrom's Lox Interpreter
 Multi-language implementations of the Lox interpreter in Java and C.
 - [jlox](https://github.com/benjamin-trainor/jlox)
 - [clox](https://github.com/benjamin-trainor/clox)
