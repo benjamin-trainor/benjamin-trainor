@@ -40,13 +40,6 @@ Use cases: leader election, distributed locks, service discovery, small metadata
 
 ---
 
-## Skills
-**Languages:** Go, TypeScript, C, Java  
-**Domains:** Backend engineering, distributed systems, compilers & interpreters, concurrent systems  
-**Other:** Networking (TCP/HTTP), event-driven architecture, formal methods, property-based testing
-
----
-
 ## 📚 Learnings - Current and Planned Study
 
 ### 📖 Current Book:
@@ -58,6 +51,13 @@ Use cases: leader election, distributed locks, service discovery, small metadata
 - Jepsen analyses
 - Herlihy & Wing: Linearizability: A Correctness Condition for Concurrent Objects
 - Ongaro & Ousterhout: The Raft Consensus Algorithm
+
+---
+
+## Skills
+**Languages:** Go, TypeScript, C, Java  
+**Domains:** Backend engineering, distributed systems, compilers & interpreters, concurrent systems  
+**Other:** Networking (TCP/HTTP), event-driven architecture, formal methods, property-based testing
 
 ---
 
