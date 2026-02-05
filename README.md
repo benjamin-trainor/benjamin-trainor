@@ -18,16 +18,22 @@ I’m a software engineer focused on backend and systems-level engineering. I bu
 Multi-language implementations of the Lox interpreter in Java and C.
 - [jlox: Repo Link](https://github.com/benjamin-trainor/jlox)
 - clox: Repo Link
-- Skills: parsing, AST, runtime design, garbage collection, cross-language invariants
+  
+Skills: parsing, AST, runtime design, garbage collection, cross-language invariants
 <!--
 - [Repo Link](https://github.com/username/lox)
 -->
+----
 
-### 🌐 Guido — Embedded Coordination Store (currently v0.x.x/private repo)
+## In Development (Private/Unstable)
+
+### 🌐 Guido — Embedded Coordination Store - Started Feb/2026
 A minimal, correctness-first coordination substrate for Go providing linearizable CAS, leases, and watches with Raft replication.
-- Use cases: leader election, distributed locks, service discovery, small metadata stores
+- ⚙️ Version: v0.x.x
 - 📝 Language: Go
 - 🛠️ Skills: distributed systems, Raft, consensus, state machines, invariants, concurrency
+
+Use cases: leader election, distributed locks, service discovery, small metadata stores
 <!--
 - [Repo Link](https://github.com/username/dist-kv)
 -->
