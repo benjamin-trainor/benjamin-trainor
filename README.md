@@ -47,6 +47,20 @@ Use cases: leader election, distributed locks, service discovery, small metadata
 
 ---
 
+## 📚 Learnings - Current and Planned Study
+
+### 📖 Current Book:
+- Bob Nystrom: Crafting Interpreters
+
+### 📚 Planned Books:
+- R & A Arpaci-Dusseau: Operating Systems: Three Easy Pieces
+- Martin Kleppmann: Designing Data-Intensive Applications
+- Jepsen analyses
+- Herlihy & Wing: Linearizability: A Correctness Condition for Concurrent Objects
+- Ongaro & Ousterhout: The Raft Consensus Algorithm
+
+---
+
 ## Links
 - [LinkedIn](https://linkedin.com/in/benjamintrainor)
 <!--
